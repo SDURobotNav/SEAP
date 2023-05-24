@@ -1,2 +1,2 @@
 # SEAP
-The code of seap will be open-sourced after paper received
+The code of seap is organizing
